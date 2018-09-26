@@ -2,9 +2,9 @@
 * @Author: cuiweiqiang
 * @Date:   2018-09-10 12:37:26
 * @Last Modified by:   cuiweiqiang
-* @Last Modified time: 2018-09-11 11:54:13
+* @Last Modified time: 2018-09-26 11:22:04
  */
-package proxy
+package producerProxy
 
 import (
 	"fmt"

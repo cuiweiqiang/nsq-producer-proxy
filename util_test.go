@@ -2,9 +2,9 @@
 * @Author: cuiweiqiang
 * @Date:   2018-09-10 12:37:20
 * @Last Modified by:   cuiweiqiang
-* @Last Modified time: 2018-09-26 10:59:09
+* @Last Modified time: 2018-09-26 11:22:07
  */
-package proxy
+package producerProxy
 
 import (
 	"testing"

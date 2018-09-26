@@ -2,10 +2,10 @@
 * @Author: cuiweiqiang
 * @Date:   2018-09-10 12:37:09
 * @Last Modified by:   cuiweiqiang
-* @Last Modified time: 2018-09-26 11:00:35
+* @Last Modified time: 2018-09-26 11:21:41
  */
 
-package proxy
+package producerProxy
 
 import (
 	"encoding/json"
